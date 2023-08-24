@@ -7,4 +7,4 @@ Our sources include oral traditions from various trips to the respective countri
 
 If you would like to contribute or provide feedback, suggestions, or criticism regarding the recipes, please email us at [melodia.luciano@proton.me](melodia.luciano@proton.me).
 
-### [Download the book :arrow_down:.](https://karhunenloeve.github.io/WitchcraftCooking/Witchcraft_of_Cooking.pdf)
+### [:arrow_down: Download the book.](https://karhunenloeve.github.io/WitchcraftCooking/Witchcraft_of_Cooking.pdf)
