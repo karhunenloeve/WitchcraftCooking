@@ -1,4 +1,4 @@
-# WitchcraftCooking
+# Witchcraft of Cooking
 A not so secret collection of cooking techniques and recipes from all over the world.
 
 This book is a very personal compilation of dishes whose techniques the authors found particularly appealing. It includes dishes from various cuisines around the world, such as German, Italian, Thai, or Pakistani cuisine. In this book, we do not limit ourselves to a specific theme, but rather focus on the method of preparation. We specifically emphasize that our dishes can be prepared intuitively, with as little measuring as possible. We aim to highlight the intuition of cooking in this book, so that the timing of a specific cooking step can be determined by tasting, the sense of smell, or simply by observation of changes in the cooking utensil. Our goal is to extract these markers in order to convey an understanding of ingredient combination and processing to the reader.
