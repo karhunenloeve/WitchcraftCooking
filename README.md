@@ -5,6 +5,8 @@ This book is a very personal compilation of dishes whose techniques the authors 
 
 Our sources include oral traditions from various trips to the respective countries and traditional home cooking that is passed down orally, as well as selected cooking videos from YouTube featuring Michelin-starred chefs. In particular, all dishes have been cooked and refined multiple times by the authors, so preparation techniques and ingredients may differ from traditional recipes. New recipes are constantly being added to the book. In the bibliography at the end, you will find all our sources listed in alphabetical order.
 
+Most of the dishes presented here can also be transformed into a vegetarian or vegan version. We deliberately refrain from making this distinction as we want to focus on cooking techniques and introduce traditional dishes. Therefore, we also refrain from providing corresponding labels. We hope that you, dear reader, will adapt the dishes to your dietary preferences or consciously modify them to avoid any allergies. We sincerely thank you for your understanding. Furthermore, we would like to avoid providing overly detailed measurements. The dishes are quite forgiving in terms of taste and can tolerate small changes in quantities. If this is not the case, we will explicitly state it and provide an exact cooking time or measurement. Of course, dear reader, you are also encouraged to try your own variations of the dishes and modify them as needed.
+
 If you would like to contribute or provide feedback, suggestions, or criticism regarding the recipes, please email us at [melodia.luciano@proton.me](melodia.luciano@proton.me).
 
 ### [:arrow_down: Download the book.](https://karhunenloeve.github.io/WitchcraftCooking/Witchcraft_of_Cooking.pdf)
