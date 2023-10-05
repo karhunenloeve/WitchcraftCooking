@@ -1,4 +1,4 @@
-\documentclass[ebook,12pt,oneside,openany]{memoir}
+\documentclass[book,12pt,oneside,openany]{memoir}
 \usepackage[utf8x]{inputenc}
 \usepackage[spanish,ngerman,british]{babel}
 \usepackage{hyperref}
@@ -7,6 +7,16 @@
 \usepackage{tocbibind}
 \usepackage{euler}
 \usepackage{epigraph}
+\usepackage{geometry}
+\geometry{
+  verbose,
+  papersize={155mm,235mm},
+  textwidth=117mm,
+  textheight=191mm,
+  heightrounded, % <- I recommend this
+  hratio=1:1,
+  vratio=1:1,
+}
 
 \setlength\epigraphwidth{8cm}
 \setlength\epigraphrule{0pt}
